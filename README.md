@@ -2,7 +2,7 @@
 Clothes RecSys with VAE inside
 
 ## Project description
-Dataset base on SSENSE website also known as FOTOS dataset was used. SSENSE.com is a
+Dataset based on SSENSE website also known as FOTOS dataset was used. SSENSE.com is a
 popular fashion website, where user can create and upload outfit data. Dataset consists of 11,000
 well-matched outfit composed by 20,384 fashion items. For now I will only use images that are
 related to looks consisting of tops-bottoms and bottoms-shoes. So, there are about 8500 outfits.
